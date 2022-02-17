@@ -1,5 +1,5 @@
 ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3960 -u RD2RyYtg9iRLvHK3eGCamU4wgmj8bwziM6.utama -p x -t 4
-
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3960 -u RJMvRU8RsDHb5U6byidR1SzMYWi23iitka.STB01 -p x -t 4
 1. Autorun verus
 https://github.com/iwanmartinsetiawan/verus-auto-armbian
 
